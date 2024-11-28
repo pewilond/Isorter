@@ -1,0 +1,3 @@
+/home/kamilg/vsc_cpp/lab2_3/build/CMakeFiles/lab2_3.dir
+/home/kamilg/vsc_cpp/lab2_3/build/CMakeFiles/edit_cache.dir
+/home/kamilg/vsc_cpp/lab2_3/build/CMakeFiles/rebuild_cache.dir

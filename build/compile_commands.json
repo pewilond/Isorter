@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/kamilg/vsc_cpp/lab2_3/build",
+  "command": "/usr/bin/clang++-18 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/kamilg/vsc_cpp/lab2_3/DataStructures -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/lab2_3.dir/main.cpp.o -c /home/kamilg/vsc_cpp/lab2_3/main.cpp",
+  "file": "/home/kamilg/vsc_cpp/lab2_3/main.cpp",
+  "output": "CMakeFiles/lab2_3.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kamilg/vsc_cpp/lab2_3/build",
+  "command": "/usr/bin/clang++-18 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/kamilg/vsc_cpp/lab2_3/DataStructures -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/lab2_3.dir/interface.cpp.o -c /home/kamilg/vsc_cpp/lab2_3/interface.cpp",
+  "file": "/home/kamilg/vsc_cpp/lab2_3/interface.cpp",
+  "output": "CMakeFiles/lab2_3.dir/interface.cpp.o"
+},
+{
+  "directory": "/home/kamilg/vsc_cpp/lab2_3/build",
+  "command": "/usr/bin/clang++-18 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/kamilg/vsc_cpp/lab2_3/DataStructures -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/lab2_3.dir/test.cpp.o -c /home/kamilg/vsc_cpp/lab2_3/test.cpp",
+  "file": "/home/kamilg/vsc_cpp/lab2_3/test.cpp",
+  "output": "CMakeFiles/lab2_3.dir/test.cpp.o"
+},
+{
+  "directory": "/home/kamilg/vsc_cpp/lab2_3/build",
+  "command": "/usr/bin/clang++-18 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/kamilg/vsc_cpp/lab2_3/DataStructures -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/lab2_3.dir/display_charts.cpp.o -c /home/kamilg/vsc_cpp/lab2_3/display_charts.cpp",
+  "file": "/home/kamilg/vsc_cpp/lab2_3/display_charts.cpp",
+  "output": "CMakeFiles/lab2_3.dir/display_charts.cpp.o"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+4	571	1732788189857750388	CMakeFiles/lab2_3.dir/main.cpp.o	6086bbbe3a7846e2
+5	2245	1732788191522748264	CMakeFiles/lab2_3.dir/test.cpp.o	829115c5d63fb1cd
+6	5665	1732788194937743909	CMakeFiles/lab2_3.dir/display_charts.cpp.o	8868825b6f235ffd
+6	1998	1732788229681699602	CMakeFiles/lab2_3.dir/interface.cpp.o	f445e88f2e96bdda
+1998	2737	1732788230424698654	lab2_3	2bcc8d5c26d7d7ce
